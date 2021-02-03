@@ -73,6 +73,14 @@ main{
   display: flex;
   align-items: left-to-right;
 }
+.wrapper h2{
+  text-shadow: 
+  0 0 0 #FCFCFC,
+  -1px -1px 0 #FCFCFC,
+  1px -1px 0 #FCFCFC, 
+  -1px 1px 0 #FCFCFC,
+  1px 1px 0 #FCFCFC;
+}
 
 table{
   margin-top: 1em;

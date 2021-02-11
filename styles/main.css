@@ -159,7 +159,9 @@ article h2.open-forever{
   max-width: 250px;
   margin: 0 auto;
 }
-
+.table{
+  border-bottom: 1px solid black;
+}
 button{
   width: 100%;
   margin-top: 1em;
@@ -170,7 +172,6 @@ button{
   font-weight: bold;
   cursor: pointer;
 }
-
 .payment-option{
   height: 64px;
 }

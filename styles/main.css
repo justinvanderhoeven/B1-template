@@ -162,6 +162,16 @@ article h2.open-forever{
 .table{
   border-bottom: 1px solid black;
 }
+.product-detail h4{
+  font-weight: normal;
+}
+.product-detail span{
+  font-weight: bold;
+}
+.product-detail{ 
+  display: flex;
+  justify-content: center;
+}
 button{
   width: 100%;
   margin-top: 1em;
